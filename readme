@@ -1,0 +1,8 @@
+Etapes a faire:
+I :frontend
+Première étape a faire c’est de lancer le projet avec cette commande : php bin/console server:run
+attendez quelques instant puis on tape sur la barre d’adresse du navigateur : http://127.0.0.1:8000
+une page d’acceuil qui s’affiche 
+
+next:
+Créer un compte avec le formulaire de register et chosissiez votre role si non on peut en creer un facilement avec la commande fos : php bin/console fos:user:create testuser
